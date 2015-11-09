@@ -1,0 +1,25 @@
+{
+	"name" 		   : "hasMethod",
+	"version"      : "1.0.0",
+	"description"  : "An easy and efficient way of checking a method inside an object",
+	"dependencies" : {
+		"node-ratify" : "1.0.5"
+	},
+	"license" 	   : "MIT",
+	"main" 		   : "./index.js",
+	"keywords"	   : [
+	    "get-method", "check-method", "hasMethod", "find method",
+	    "contains", "childOf", "containsIgnoreCase", "validate method"
+	],
+	"repository"   : {
+		"type" : "git",
+		"url"  : "https://github.com/luthraG/hasMethod.git"
+	},
+	"bugs"         : {
+		"url" : "https://github.com/luthraG/hasMethod/issues"
+	},
+	"author"       : {
+		"name"  : "Gaurav Luthra",
+		"email" : "luthra.zenith@gmail.com"
+	}
+}

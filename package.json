@@ -8,7 +8,7 @@
 	"license" 	   : "MIT",
 	"main" 		   : "./index.js",
 	"keywords"	   : [
-	    "get-method", "check-method", "has method", "find method", "has-method"
+	    "get-method", "check-method", "has method", "find method", "has-method",
 	    "contains", "childOf", "containsIgnoreCase", "validate method"
 	],
 	"repository"   : {

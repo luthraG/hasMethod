@@ -1,5 +1,5 @@
 {
-	"name" 		   : "hasMethod",
+	"name" 		   : "has-method",
 	"version"      : "1.0.0",
 	"description"  : "An easy and efficient way of checking a method inside an object",
 	"dependencies" : {
@@ -8,7 +8,7 @@
 	"license" 	   : "MIT",
 	"main" 		   : "./index.js",
 	"keywords"	   : [
-	    "get-method", "check-method", "hasMethod", "find method",
+	    "get-method", "check-method", "has method", "find method", "has-method"
 	    "contains", "childOf", "containsIgnoreCase", "validate method"
 	],
 	"repository"   : {
